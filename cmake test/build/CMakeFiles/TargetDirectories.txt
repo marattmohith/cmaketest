@@ -1,0 +1,5 @@
+C:/Users/mmaratt/Desktop/cmake test/build/src/CMakeFiles/executableCmake.dir
+C:/Users/mmaratt/Desktop/cmake test/build/src/simple/CMakeFiles/simple.dir
+C:/Users/mmaratt/Desktop/cmake test/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mmaratt/Desktop/cmake test/build/src/advanced/CMakeFiles/advanced.dir
+C:/Users/mmaratt/Desktop/cmake test/build/CMakeFiles/ZERO_CHECK.dir
